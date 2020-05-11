@@ -23,6 +23,7 @@
             border: none;
             color: white;
             padding: 7px;
+                outline:0;
         }
         
         input:hover {
@@ -34,6 +35,7 @@
             color: white;
             border: none;
             border: 1px solid green;
+                outline:0;
             padding: 10px;
             margin-bottom: 5px;
             border-radius: 20px;
